@@ -15,7 +15,7 @@ public class ResourceController {
 	@RequestMapping("/helloadmin")
 	public String getAdmin()
 	{
-		return "Hello Admin";
+		return "Hello Admin person";
 	}
 
 }
